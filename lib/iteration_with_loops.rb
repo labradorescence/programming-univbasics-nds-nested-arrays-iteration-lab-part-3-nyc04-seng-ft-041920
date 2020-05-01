@@ -14,5 +14,5 @@ def join_nested_strings(src)
     end
     row += 1
   end
-  return returning_str.slice(1,returning_str.length)
+  return puts returning_str.slice(1,returning_str.length)
 end
